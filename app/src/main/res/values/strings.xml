@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TarjetaPresentacion</string>
+    <string name="allTaskCompleted">All tasks completed</string>
+    <string name="niceWork">Nice work!</string>
+</resources>
